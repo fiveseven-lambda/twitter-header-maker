@@ -4,4 +4,4 @@ out.png: main.cpp
 	gm convert out.bmp out.png
 
 clean:
-	rm out.bmp out.png
+	rm *.out *.bmp *.png
